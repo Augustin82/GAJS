@@ -1,0 +1,5 @@
+.idea
+*.iml
+target
+web-app/WEB-INF
+web-app/ng-templates
